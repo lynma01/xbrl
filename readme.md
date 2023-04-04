@@ -10,7 +10,10 @@
 - [ ] ingest other SEC xbrl filings (insider trades, etc.)
 
 # Folder snapshot:
-```
+
+> visual of local development directory
+
+```bash
 .
 ├── data
 │   └── nvidia
