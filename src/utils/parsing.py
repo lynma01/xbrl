@@ -1,5 +1,3 @@
-
-
 def slash_split(period: dict) -> dict:
     """Splits date period into sub-dictionary"""
     period_dates = period['period']
